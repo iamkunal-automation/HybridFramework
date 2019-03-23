@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Weekly Paper Automation Test Suite]">
+  <listeners>
+    <listener class-name="com.qa.ExtentReport.ExtentReportListener"/>
+  </listeners>
+  <test thread-count="5" name="Weekly Paper Test Cases(failed)">
+    <classes>
+      <class name="com.qa.testCases.PostAddTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="postAddTest"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.qa.testCases.PostAddTest -->
+    </classes>
+  </test> <!-- Weekly Paper Test Cases(failed) -->
+</suite> <!-- Failed suite [Weekly Paper Automation Test Suite] -->

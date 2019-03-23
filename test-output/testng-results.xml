@@ -1,0 +1,2201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="7" ignored="0" total="91" passed="84">
+  <reporter-output>
+    <line>
+      <![CDATA[<a href='/home/day/eclipse-workspace/WeeklyPaper/target/surefire-reports/failure_screenshots/deleteFavouriteAdTest_19_03_2019_02_41_38.png'> <img src='/home/day/eclipse-workspace/WeeklyPaper/target/surefire-reports/failure_screenshots/deleteFavouriteAdTest_19_03_2019_02_41_38.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='/home/day/eclipse-workspace/WeeklyPaper/target/surefire-reports/failure_screenshots/verifyCategoryPageTitleTest_19_03_2019_02_44_01.png'> <img src='/home/day/eclipse-workspace/WeeklyPaper/target/surefire-reports/failure_screenshots/verifyCategoryPageTitleTest_19_03_2019_02_44_01.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='/home/day/eclipse-workspace/WeeklyPaper/target/surefire-reports/failure_screenshots/verfyPostAdPageTest_19_03_2019_03_34_55.png'> <img src='/home/day/eclipse-workspace/WeeklyPaper/target/surefire-reports/failure_screenshots/verfyPostAdPageTest_19_03_2019_03_34_55.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='/home/day/eclipse-workspace/WeeklyPaper/target/surefire-reports/failure_screenshots/categoryCountTest_19_03_2019_03_37_40.png'> <img src='/home/day/eclipse-workspace/WeeklyPaper/target/surefire-reports/failure_screenshots/categoryCountTest_19_03_2019_03_37_40.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='/home/day/eclipse-workspace/WeeklyPaper/target/surefire-reports/failure_screenshots/fileLinkClickabilityTest_19_03_2019_03_48_36.png'> <img src='/home/day/eclipse-workspace/WeeklyPaper/target/surefire-reports/failure_screenshots/fileLinkClickabilityTest_19_03_2019_03_48_36.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='/home/day/eclipse-workspace/WeeklyPaper/target/surefire-reports/failure_screenshots/verifyEnquiredProductTest_19_03_2019_04_01_02.png'> <img src='/home/day/eclipse-workspace/WeeklyPaper/target/surefire-reports/failure_screenshots/verifyEnquiredProductTest_19_03_2019_04_01_02.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='/home/day/eclipse-workspace/WeeklyPaper/target/surefire-reports/failure_screenshots/SignUpFormTest_19_03_2019_04_04_20.png'> <img src='/home/day/eclipse-workspace/WeeklyPaper/target/surefire-reports/failure_screenshots/SignUpFormTest_19_03_2019_04_04_20.png' height='100' width='100'/> </a>]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="5959664" started-at="2019-03-19T09:05:41Z" finished-at="2019-03-19T10:45:01Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="357474" started-at="2019-03-19T09:05:41Z" finished-at="2019-03-19T09:11:39Z">
+      <class name="com.qa.testCases.AddToFavouritePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.AddToFavouritePageTest@578486a3]" name="setUp" is-config="true" duration-ms="51913" started-at="2019-03-19T09:05:41Z" finished-at="2019-03-19T09:06:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="favouriteAdLinkClickabilityTest()[pri:1, instance:com.qa.testCases.AddToFavouritePageTest@578486a3]" name="favouriteAdLinkClickabilityTest" duration-ms="18408" started-at="2019-03-19T09:06:33Z" finished-at="2019-03-19T09:06:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- favouriteAdLinkClickabilityTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.AddToFavouritePageTest@578486a3]" name="teardown" is-config="true" duration-ms="78" started-at="2019-03-19T09:06:51Z" finished-at="2019-03-19T09:06:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=favouriteAdLinkClickabilityTest status=SUCCESS method=AddToFavouritePageTest.favouriteAdLinkClickabilityTest()[pri:1, instance:com.qa.testCases.AddToFavouritePageTest@578486a3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.AddToFavouritePageTest@578486a3]" name="setUp" is-config="true" duration-ms="46420" started-at="2019-03-19T09:06:52Z" finished-at="2019-03-19T09:07:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="favouriteAdPageTitleTest()[pri:2, instance:com.qa.testCases.AddToFavouritePageTest@578486a3]" name="favouriteAdPageTitleTest" duration-ms="24956" started-at="2019-03-19T09:07:38Z" finished-at="2019-03-19T09:08:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- favouriteAdPageTitleTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.AddToFavouritePageTest@578486a3]" name="teardown" is-config="true" duration-ms="71" started-at="2019-03-19T09:08:03Z" finished-at="2019-03-19T09:08:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=favouriteAdPageTitleTest status=SUCCESS method=AddToFavouritePageTest.favouriteAdPageTitleTest()[pri:2, instance:com.qa.testCases.AddToFavouritePageTest@578486a3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.AddToFavouritePageTest@578486a3]" name="setUp" is-config="true" duration-ms="44727" started-at="2019-03-19T09:08:03Z" finished-at="2019-03-19T09:08:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="favouriteIconEnableTest()[pri:3, instance:com.qa.testCases.AddToFavouritePageTest@578486a3]" name="favouriteIconEnableTest" duration-ms="15167" started-at="2019-03-19T09:08:48Z" finished-at="2019-03-19T09:09:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- favouriteIconEnableTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.AddToFavouritePageTest@578486a3]" name="teardown" is-config="true" duration-ms="74" started-at="2019-03-19T09:09:03Z" finished-at="2019-03-19T09:09:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=favouriteIconEnableTest status=SUCCESS method=AddToFavouritePageTest.favouriteIconEnableTest()[pri:3, instance:com.qa.testCases.AddToFavouritePageTest@578486a3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.AddToFavouritePageTest@578486a3]" name="setUp" is-config="true" duration-ms="44528" started-at="2019-03-19T09:09:03Z" finished-at="2019-03-19T09:09:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="favouriteVerificationTest()[pri:4, instance:com.qa.testCases.AddToFavouritePageTest@578486a3]" name="favouriteVerificationTest" duration-ms="23174" started-at="2019-03-19T09:09:47Z" finished-at="2019-03-19T09:10:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- favouriteVerificationTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.AddToFavouritePageTest@578486a3]" name="teardown" is-config="true" duration-ms="70" started-at="2019-03-19T09:10:11Z" finished-at="2019-03-19T09:10:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=favouriteVerificationTest status=SUCCESS method=AddToFavouritePageTest.favouriteVerificationTest()[pri:4, instance:com.qa.testCases.AddToFavouritePageTest@578486a3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.AddToFavouritePageTest@578486a3]" name="setUp" is-config="true" duration-ms="44686" started-at="2019-03-19T09:10:11Z" finished-at="2019-03-19T09:10:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="FAIL" signature="deleteFavouriteAdTest()[pri:5, instance:com.qa.testCases.AddToFavouritePageTest@578486a3]" name="deleteFavouriteAdTest" duration-ms="42750" started-at="2019-03-19T09:10:55Z" finished-at="2019-03-19T09:11:38Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//i[@class='fa fa-times']"}
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=2.46.628388 (4a34a70827ac54148e092aafb70504c4ea7ae926),platform=Linux 4.4.0-142-generic x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'saffron-H81M-S', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.0-142-generic', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628388 (4a34a70827ac54..., userDataDir: /tmp/.org.chromium.Chromium...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:44832}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 65ac2aa94ab66b4c787d379e2d0edc5d
+*** Element info: {Using=xpath, value=//i[@class='fa fa-times']}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//i[@class='fa fa-times']"}
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=2.46.628388 (4a34a70827ac54148e092aafb70504c4ea7ae926),platform=Linux 4.4.0-142-generic x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'saffron-H81M-S', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.0-142-generic', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628388 (4a34a70827ac54..., userDataDir: /tmp/.org.chromium.Chromium...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:44832}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 65ac2aa94ab66b4c787d379e2d0edc5d
+*** Element info: {Using=xpath, value=//i[@class='fa fa-times']}
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at com.sun.proxy.$Proxy9.click(Unknown Source)
+at com.qa.pages.AddToFavouritePage.verifyDeleteAd(AddToFavouritePage.java:95)
+at com.qa.testCases.AddToFavouritePageTest.deleteFavouriteAdTest(AddToFavouritePageTest.java:78)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='/home/day/eclipse-workspace/WeeklyPaper/target/surefire-reports/failure_screenshots/deleteFavouriteAdTest_19_03_2019_02_41_38.png'> <img src='/home/day/eclipse-workspace/WeeklyPaper/target/surefire-reports/failure_screenshots/deleteFavouriteAdTest_19_03_2019_02_41_38.png' height='100' width='100'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- deleteFavouriteAdTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.AddToFavouritePageTest@578486a3]" name="teardown" is-config="true" duration-ms="180" started-at="2019-03-19T09:11:38Z" finished-at="2019-03-19T09:11:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=deleteFavouriteAdTest status=FAILURE method=AddToFavouritePageTest.deleteFavouriteAdTest()[pri:5, instance:com.qa.testCases.AddToFavouritePageTest@578486a3] output=<a href='/home/day/eclipse-workspace/WeeklyPaper/target/surefire-reports/failure_screenshots/deleteFavouriteAdTest_19_03_2019_02_41_38.png'> <img src='/home/day/eclipse-workspace/WeeklyPaper/target/surefire-reports/failure_screenshots/deleteFavouriteAdTest_19_03_2019_02_41_38.png' height='100' width='100'/> </a>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.testCases.AddToFavouritePageTest -->
+    </test> <!-- Test1 -->
+    <test name="Test2" duration-ms="952230" started-at="2019-03-19T09:11:39Z" finished-at="2019-03-19T09:27:31Z">
+      <class name="com.qa.testCases.CategoriesPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.CategoriesPageTest@131276c2]" name="setUp" is-config="true" duration-ms="44358" started-at="2019-03-19T09:11:39Z" finished-at="2019-03-19T09:12:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="countCategoryTest()[pri:1, instance:com.qa.testCases.CategoriesPageTest@131276c2]" name="countCategoryTest" duration-ms="1704" started-at="2019-03-19T09:12:23Z" finished-at="2019-03-19T09:12:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- countCategoryTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.CategoriesPageTest@131276c2]" name="teardown" is-config="true" duration-ms="72" started-at="2019-03-19T09:12:25Z" finished-at="2019-03-19T09:12:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=countCategoryTest status=SUCCESS method=CategoriesPageTest.countCategoryTest()[pri:1, instance:com.qa.testCases.CategoriesPageTest@131276c2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.CategoriesPageTest@131276c2]" name="setUp" is-config="true" duration-ms="44525" started-at="2019-03-19T09:12:25Z" finished-at="2019-03-19T09:13:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="categoryMenuClickabilityTest()[pri:2, instance:com.qa.testCases.CategoriesPageTest@131276c2]" name="categoryMenuClickabilityTest" duration-ms="28" started-at="2019-03-19T09:13:10Z" finished-at="2019-03-19T09:13:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- categoryMenuClickabilityTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.CategoriesPageTest@131276c2]" name="teardown" is-config="true" duration-ms="72" started-at="2019-03-19T09:13:10Z" finished-at="2019-03-19T09:13:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=categoryMenuClickabilityTest status=SUCCESS method=CategoriesPageTest.categoryMenuClickabilityTest()[pri:2, instance:com.qa.testCases.CategoriesPageTest@131276c2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.CategoriesPageTest@131276c2]" name="setUp" is-config="true" duration-ms="44621" started-at="2019-03-19T09:13:10Z" finished-at="2019-03-19T09:13:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="FAIL" signature="verifyCategoryPageTitleTest()[pri:3, instance:com.qa.testCases.CategoriesPageTest@131276c2]" name="verifyCategoryPageTitleTest" duration-ms="6765" started-at="2019-03-19T09:13:54Z" finished-at="2019-03-19T09:14:01Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [] but found [WeeklyPaper - Categories]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [] but found [WeeklyPaper - Categories]
+at org.testng.Assert.fail(Assert.java:96)
+at org.testng.Assert.failNotEquals(Assert.java:776)
+at org.testng.Assert.assertEqualsImpl(Assert.java:137)
+at org.testng.Assert.assertEquals(Assert.java:118)
+at org.testng.Assert.assertEquals(Assert.java:453)
+at org.testng.Assert.assertEquals(Assert.java:463)
+at com.qa.testCases.CategoriesPageTest.verifyCategoryPageTitleTest(CategoriesPageTest.java:54)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='/home/day/eclipse-workspace/WeeklyPaper/target/surefire-reports/failure_screenshots/verifyCategoryPageTitleTest_19_03_2019_02_44_01.png'> <img src='/home/day/eclipse-workspace/WeeklyPaper/target/surefire-reports/failure_screenshots/verifyCategoryPageTitleTest_19_03_2019_02_44_01.png' height='100' width='100'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyCategoryPageTitleTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.CategoriesPageTest@131276c2]" name="teardown" is-config="true" duration-ms="211" started-at="2019-03-19T09:14:01Z" finished-at="2019-03-19T09:14:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyCategoryPageTitleTest status=FAILURE method=CategoriesPageTest.verifyCategoryPageTitleTest()[pri:3, instance:com.qa.testCases.CategoriesPageTest@131276c2] output=<a href='/home/day/eclipse-workspace/WeeklyPaper/target/surefire-reports/failure_screenshots/verifyCategoryPageTitleTest_19_03_2019_02_44_01.png'> <img src='/home/day/eclipse-workspace/WeeklyPaper/target/surefire-reports/failure_screenshots/verifyCategoryPageTitleTest_19_03_2019_02_44_01.png' height='100' width='100'/> </a>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.CategoriesPageTest@131276c2]" name="setUp" is-config="true" duration-ms="44325" started-at="2019-03-19T09:14:01Z" finished-at="2019-03-19T09:14:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="countArtBookssubcategories()[pri:4, instance:com.qa.testCases.CategoriesPageTest@131276c2]" name="countArtBookssubcategories" duration-ms="11823" started-at="2019-03-19T09:14:46Z" finished-at="2019-03-19T09:14:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- countArtBookssubcategories -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.CategoriesPageTest@131276c2]" name="teardown" is-config="true" duration-ms="71" started-at="2019-03-19T09:14:58Z" finished-at="2019-03-19T09:14:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=countArtBookssubcategories status=SUCCESS method=CategoriesPageTest.countArtBookssubcategories()[pri:4, instance:com.qa.testCases.CategoriesPageTest@131276c2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.CategoriesPageTest@131276c2]" name="setUp" is-config="true" duration-ms="47096" started-at="2019-03-19T09:14:58Z" finished-at="2019-03-19T09:15:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="countAutomotivesubcategories()[pri:5, instance:com.qa.testCases.CategoriesPageTest@131276c2]" name="countAutomotivesubcategories" duration-ms="11871" started-at="2019-03-19T09:15:45Z" finished-at="2019-03-19T09:15:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- countAutomotivesubcategories -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.CategoriesPageTest@131276c2]" name="teardown" is-config="true" duration-ms="76" started-at="2019-03-19T09:15:57Z" finished-at="2019-03-19T09:15:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=countAutomotivesubcategories status=SUCCESS method=CategoriesPageTest.countAutomotivesubcategories()[pri:5, instance:com.qa.testCases.CategoriesPageTest@131276c2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.CategoriesPageTest@131276c2]" name="setUp" is-config="true" duration-ms="44913" started-at="2019-03-19T09:15:57Z" finished-at="2019-03-19T09:16:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="countBoatsAndSkisSubcategories()[pri:6, instance:com.qa.testCases.CategoriesPageTest@131276c2]" name="countBoatsAndSkisSubcategories" duration-ms="11865" started-at="2019-03-19T09:16:42Z" finished-at="2019-03-19T09:16:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- countBoatsAndSkisSubcategories -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.CategoriesPageTest@131276c2]" name="teardown" is-config="true" duration-ms="71" started-at="2019-03-19T09:16:54Z" finished-at="2019-03-19T09:16:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=countBoatsAndSkisSubcategories status=SUCCESS method=CategoriesPageTest.countBoatsAndSkisSubcategories()[pri:6, instance:com.qa.testCases.CategoriesPageTest@131276c2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.CategoriesPageTest@131276c2]" name="setUp" is-config="true" duration-ms="44809" started-at="2019-03-19T09:16:54Z" finished-at="2019-03-19T09:17:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="countClothesAndJewelSubcategories()[pri:7, instance:com.qa.testCases.CategoriesPageTest@131276c2]" name="countClothesAndJewelSubcategories" duration-ms="11951" started-at="2019-03-19T09:17:38Z" finished-at="2019-03-19T09:17:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- countClothesAndJewelSubcategories -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.CategoriesPageTest@131276c2]" name="teardown" is-config="true" duration-ms="73" started-at="2019-03-19T09:17:50Z" finished-at="2019-03-19T09:17:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=countClothesAndJewelSubcategories status=SUCCESS method=CategoriesPageTest.countClothesAndJewelSubcategories()[pri:7, instance:com.qa.testCases.CategoriesPageTest@131276c2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.CategoriesPageTest@131276c2]" name="setUp" is-config="true" duration-ms="44505" started-at="2019-03-19T09:17:50Z" finished-at="2019-03-19T09:18:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="countCommunitySubCategories()[pri:8, instance:com.qa.testCases.CategoriesPageTest@131276c2]" name="countCommunitySubCategories" duration-ms="11788" started-at="2019-03-19T09:18:35Z" finished-at="2019-03-19T09:18:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- countCommunitySubCategories -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.CategoriesPageTest@131276c2]" name="teardown" is-config="true" duration-ms="70" started-at="2019-03-19T09:18:47Z" finished-at="2019-03-19T09:18:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=countCommunitySubCategories status=SUCCESS method=CategoriesPageTest.countCommunitySubCategories()[pri:8, instance:com.qa.testCases.CategoriesPageTest@131276c2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.CategoriesPageTest@131276c2]" name="setUp" is-config="true" duration-ms="44769" started-at="2019-03-19T09:18:47Z" finished-at="2019-03-19T09:19:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="countConsumerElectronicsSubcategories()[pri:9, instance:com.qa.testCases.CategoriesPageTest@131276c2]" name="countConsumerElectronicsSubcategories" duration-ms="11793" started-at="2019-03-19T09:19:32Z" finished-at="2019-03-19T09:19:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- countConsumerElectronicsSubcategories -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.CategoriesPageTest@131276c2]" name="teardown" is-config="true" duration-ms="70" started-at="2019-03-19T09:19:43Z" finished-at="2019-03-19T09:19:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=countConsumerElectronicsSubcategories status=SUCCESS method=CategoriesPageTest.countConsumerElectronicsSubcategories()[pri:9, instance:com.qa.testCases.CategoriesPageTest@131276c2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.CategoriesPageTest@131276c2]" name="setUp" is-config="true" duration-ms="44642" started-at="2019-03-19T09:19:43Z" finished-at="2019-03-19T09:20:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="countDiscussionForumsSubcategories()[pri:10, instance:com.qa.testCases.CategoriesPageTest@131276c2]" name="countDiscussionForumsSubcategories" duration-ms="11877" started-at="2019-03-19T09:20:28Z" finished-at="2019-03-19T09:20:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- countDiscussionForumsSubcategories -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.CategoriesPageTest@131276c2]" name="teardown" is-config="true" duration-ms="75" started-at="2019-03-19T09:20:40Z" finished-at="2019-03-19T09:20:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=countDiscussionForumsSubcategories status=SUCCESS method=CategoriesPageTest.countDiscussionForumsSubcategories()[pri:10, instance:com.qa.testCases.CategoriesPageTest@131276c2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.CategoriesPageTest@131276c2]" name="setUp" is-config="true" duration-ms="44569" started-at="2019-03-19T09:20:40Z" finished-at="2019-03-19T09:21:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="countJobsSubcategories()[pri:11, instance:com.qa.testCases.CategoriesPageTest@131276c2]" name="countJobsSubcategories" duration-ms="17037" started-at="2019-03-19T09:21:25Z" finished-at="2019-03-19T09:21:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- countJobsSubcategories -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.CategoriesPageTest@131276c2]" name="teardown" is-config="true" duration-ms="72" started-at="2019-03-19T09:21:42Z" finished-at="2019-03-19T09:21:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=countJobsSubcategories status=SUCCESS method=CategoriesPageTest.countJobsSubcategories()[pri:11, instance:com.qa.testCases.CategoriesPageTest@131276c2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.CategoriesPageTest@131276c2]" name="setUp" is-config="true" duration-ms="47888" started-at="2019-03-19T09:21:42Z" finished-at="2019-03-19T09:22:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="countLocalPlacesSubcategories()[pri:12, instance:com.qa.testCases.CategoriesPageTest@131276c2]" name="countLocalPlacesSubcategories" duration-ms="11825" started-at="2019-03-19T09:22:30Z" finished-at="2019-03-19T09:22:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- countLocalPlacesSubcategories -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.CategoriesPageTest@131276c2]" name="teardown" is-config="true" duration-ms="74" started-at="2019-03-19T09:22:41Z" finished-at="2019-03-19T09:22:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=countLocalPlacesSubcategories status=SUCCESS method=CategoriesPageTest.countLocalPlacesSubcategories()[pri:12, instance:com.qa.testCases.CategoriesPageTest@131276c2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.CategoriesPageTest@131276c2]" name="setUp" is-config="true" duration-ms="44695" started-at="2019-03-19T09:22:41Z" finished-at="2019-03-19T09:23:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="countOthersSubcategories()[pri:13, instance:com.qa.testCases.CategoriesPageTest@131276c2]" name="countOthersSubcategories" duration-ms="11802" started-at="2019-03-19T09:23:26Z" finished-at="2019-03-19T09:23:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- countOthersSubcategories -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.CategoriesPageTest@131276c2]" name="teardown" is-config="true" duration-ms="70" started-at="2019-03-19T09:23:38Z" finished-at="2019-03-19T09:23:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=countOthersSubcategories status=SUCCESS method=CategoriesPageTest.countOthersSubcategories()[pri:13, instance:com.qa.testCases.CategoriesPageTest@131276c2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.CategoriesPageTest@131276c2]" name="setUp" is-config="true" duration-ms="44475" started-at="2019-03-19T09:23:38Z" finished-at="2019-03-19T09:24:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="countPetsSubcategories()[pri:14, instance:com.qa.testCases.CategoriesPageTest@131276c2]" name="countPetsSubcategories" duration-ms="11853" started-at="2019-03-19T09:24:23Z" finished-at="2019-03-19T09:24:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- countPetsSubcategories -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.CategoriesPageTest@131276c2]" name="teardown" is-config="true" duration-ms="69" started-at="2019-03-19T09:24:34Z" finished-at="2019-03-19T09:24:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=countPetsSubcategories status=SUCCESS method=CategoriesPageTest.countPetsSubcategories()[pri:14, instance:com.qa.testCases.CategoriesPageTest@131276c2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.CategoriesPageTest@131276c2]" name="setUp" is-config="true" duration-ms="44660" started-at="2019-03-19T09:24:34Z" finished-at="2019-03-19T09:25:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="countRealEstateSubcategories()[pri:15, instance:com.qa.testCases.CategoriesPageTest@131276c2]" name="countRealEstateSubcategories" duration-ms="11896" started-at="2019-03-19T09:25:19Z" finished-at="2019-03-19T09:25:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- countRealEstateSubcategories -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.CategoriesPageTest@131276c2]" name="teardown" is-config="true" duration-ms="69" started-at="2019-03-19T09:25:31Z" finished-at="2019-03-19T09:25:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=countRealEstateSubcategories status=SUCCESS method=CategoriesPageTest.countRealEstateSubcategories()[pri:15, instance:com.qa.testCases.CategoriesPageTest@131276c2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.CategoriesPageTest@131276c2]" name="setUp" is-config="true" duration-ms="51894" started-at="2019-03-19T09:25:31Z" finished-at="2019-03-19T09:26:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="countResumesSubcategories()[pri:16, instance:com.qa.testCases.CategoriesPageTest@131276c2]" name="countResumesSubcategories" duration-ms="11844" started-at="2019-03-19T09:26:23Z" finished-at="2019-03-19T09:26:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- countResumesSubcategories -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.CategoriesPageTest@131276c2]" name="teardown" is-config="true" duration-ms="70" started-at="2019-03-19T09:26:35Z" finished-at="2019-03-19T09:26:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=countResumesSubcategories status=SUCCESS method=CategoriesPageTest.countResumesSubcategories()[pri:16, instance:com.qa.testCases.CategoriesPageTest@131276c2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.CategoriesPageTest@131276c2]" name="setUp" is-config="true" duration-ms="44339" started-at="2019-03-19T09:26:35Z" finished-at="2019-03-19T09:27:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="countServicesSubcategories()[pri:17, instance:com.qa.testCases.CategoriesPageTest@131276c2]" name="countServicesSubcategories" duration-ms="11941" started-at="2019-03-19T09:27:19Z" finished-at="2019-03-19T09:27:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- countServicesSubcategories -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.CategoriesPageTest@131276c2]" name="teardown" is-config="true" duration-ms="70" started-at="2019-03-19T09:27:31Z" finished-at="2019-03-19T09:27:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=countServicesSubcategories status=SUCCESS method=CategoriesPageTest.countServicesSubcategories()[pri:17, instance:com.qa.testCases.CategoriesPageTest@131276c2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.testCases.CategoriesPageTest -->
+    </test> <!-- Test2 -->
+    <test name="Test3" duration-ms="207784" started-at="2019-03-19T09:27:31Z" finished-at="2019-03-19T09:30:59Z">
+      <class name="com.qa.testCases.EditAdTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.EditAdTest@23faf8f2]" name="setUp" is-config="true" duration-ms="44527" started-at="2019-03-19T09:27:31Z" finished-at="2019-03-19T09:28:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="editButtonClickabilityTest()[pri:1, instance:com.qa.testCases.EditAdTest@23faf8f2]" name="editButtonClickabilityTest" duration-ms="24145" started-at="2019-03-19T09:28:16Z" finished-at="2019-03-19T09:28:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editButtonClickabilityTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.EditAdTest@23faf8f2]" name="teardown" is-config="true" duration-ms="74" started-at="2019-03-19T09:28:40Z" finished-at="2019-03-19T09:28:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=editButtonClickabilityTest status=SUCCESS method=EditAdTest.editButtonClickabilityTest()[pri:1, instance:com.qa.testCases.EditAdTest@23faf8f2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.EditAdTest@23faf8f2]" name="setUp" is-config="true" duration-ms="45500" started-at="2019-03-19T09:28:40Z" finished-at="2019-03-19T09:29:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="UpdateAdTest()[pri:2, instance:com.qa.testCases.EditAdTest@23faf8f2]" name="UpdateAdTest" duration-ms="24219" started-at="2019-03-19T09:29:26Z" finished-at="2019-03-19T09:29:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdateAdTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.EditAdTest@23faf8f2]" name="teardown" is-config="true" duration-ms="69" started-at="2019-03-19T09:29:50Z" finished-at="2019-03-19T09:29:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=UpdateAdTest status=SUCCESS method=EditAdTest.UpdateAdTest()[pri:2, instance:com.qa.testCases.EditAdTest@23faf8f2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.EditAdTest@23faf8f2]" name="setUp" is-config="true" duration-ms="48337" started-at="2019-03-19T09:29:50Z" finished-at="2019-03-19T09:30:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="UpdateAdPageTitleTest()[pri:3, instance:com.qa.testCases.EditAdTest@23faf8f2]" name="UpdateAdPageTitleTest" duration-ms="20834" started-at="2019-03-19T09:30:38Z" finished-at="2019-03-19T09:30:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdateAdPageTitleTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.EditAdTest@23faf8f2]" name="teardown" is-config="true" duration-ms="74" started-at="2019-03-19T09:30:59Z" finished-at="2019-03-19T09:30:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=UpdateAdPageTitleTest status=SUCCESS method=EditAdTest.UpdateAdPageTitleTest()[pri:3, instance:com.qa.testCases.EditAdTest@23faf8f2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.testCases.EditAdTest -->
+    </test> <!-- Test3 -->
+    <test name="Test4" duration-ms="609170" started-at="2019-03-19T09:30:59Z" finished-at="2019-03-19T09:41:08Z">
+      <class name="com.qa.testCases.EnquiryPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.EnquiryPageTest@56aac163]" name="setUp" is-config="true" duration-ms="49496" started-at="2019-03-19T09:30:59Z" finished-at="2019-03-19T09:31:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="EnquirySectionTest()[pri:1, instance:com.qa.testCases.EnquiryPageTest@56aac163]" name="EnquirySectionTest" duration-ms="22232" started-at="2019-03-19T09:31:49Z" finished-at="2019-03-19T09:32:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnquirySectionTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.EnquiryPageTest@56aac163]" name="teardown" is-config="true" duration-ms="69" started-at="2019-03-19T09:32:11Z" finished-at="2019-03-19T09:32:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=EnquirySectionTest status=SUCCESS method=EnquiryPageTest.EnquirySectionTest()[pri:1, instance:com.qa.testCases.EnquiryPageTest@56aac163] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.EnquiryPageTest@56aac163]" name="setUp" is-config="true" duration-ms="48430" started-at="2019-03-19T09:32:11Z" finished-at="2019-03-19T09:32:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="textboxPlaceholderTest()[pri:2, instance:com.qa.testCases.EnquiryPageTest@56aac163]" name="textboxPlaceholderTest" duration-ms="21860" started-at="2019-03-19T09:32:59Z" finished-at="2019-03-19T09:33:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- textboxPlaceholderTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.EnquiryPageTest@56aac163]" name="teardown" is-config="true" duration-ms="73" started-at="2019-03-19T09:33:21Z" finished-at="2019-03-19T09:33:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=textboxPlaceholderTest status=SUCCESS method=EnquiryPageTest.textboxPlaceholderTest()[pri:2, instance:com.qa.testCases.EnquiryPageTest@56aac163] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.EnquiryPageTest@56aac163]" name="setUp" is-config="true" duration-ms="48600" started-at="2019-03-19T09:33:21Z" finished-at="2019-03-19T09:34:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="subjectFieldValidationMessageTest()[pri:3, instance:com.qa.testCases.EnquiryPageTest@56aac163]" name="subjectFieldValidationMessageTest" duration-ms="31145" started-at="2019-03-19T09:34:10Z" finished-at="2019-03-19T09:34:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subjectFieldValidationMessageTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.EnquiryPageTest@56aac163]" name="teardown" is-config="true" duration-ms="74" started-at="2019-03-19T09:34:41Z" finished-at="2019-03-19T09:34:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=subjectFieldValidationMessageTest status=SUCCESS method=EnquiryPageTest.subjectFieldValidationMessageTest()[pri:3, instance:com.qa.testCases.EnquiryPageTest@56aac163] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.EnquiryPageTest@56aac163]" name="setUp" is-config="true" duration-ms="48349" started-at="2019-03-19T09:34:41Z" finished-at="2019-03-19T09:35:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="descriptionFieldValidationMessageTest()[pri:4, instance:com.qa.testCases.EnquiryPageTest@56aac163]" name="descriptionFieldValidationMessageTest" duration-ms="31622" started-at="2019-03-19T09:35:29Z" finished-at="2019-03-19T09:36:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- descriptionFieldValidationMessageTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.EnquiryPageTest@56aac163]" name="teardown" is-config="true" duration-ms="76" started-at="2019-03-19T09:36:01Z" finished-at="2019-03-19T09:36:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=descriptionFieldValidationMessageTest status=SUCCESS method=EnquiryPageTest.descriptionFieldValidationMessageTest()[pri:4, instance:com.qa.testCases.EnquiryPageTest@56aac163] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.EnquiryPageTest@56aac163]" name="setUp" is-config="true" duration-ms="48105" started-at="2019-03-19T09:36:01Z" finished-at="2019-03-19T09:36:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="sendEnquiryTest()[pri:5, instance:com.qa.testCases.EnquiryPageTest@56aac163]" name="sendEnquiryTest" duration-ms="29624" started-at="2019-03-19T09:36:49Z" finished-at="2019-03-19T09:37:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendEnquiryTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.EnquiryPageTest@56aac163]" name="teardown" is-config="true" duration-ms="73" started-at="2019-03-19T09:37:19Z" finished-at="2019-03-19T09:37:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=sendEnquiryTest status=SUCCESS method=EnquiryPageTest.sendEnquiryTest()[pri:5, instance:com.qa.testCases.EnquiryPageTest@56aac163] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.EnquiryPageTest@56aac163]" name="setUp" is-config="true" duration-ms="48737" started-at="2019-03-19T09:37:19Z" finished-at="2019-03-19T09:38:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="emailidFieldDisabilityTest()[pri:6, instance:com.qa.testCases.EnquiryPageTest@56aac163]" name="emailidFieldDisabilityTest" duration-ms="28356" started-at="2019-03-19T09:38:08Z" finished-at="2019-03-19T09:38:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emailidFieldDisabilityTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.EnquiryPageTest@56aac163]" name="teardown" is-config="true" duration-ms="70" started-at="2019-03-19T09:38:36Z" finished-at="2019-03-19T09:38:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=emailidFieldDisabilityTest status=SUCCESS method=EnquiryPageTest.emailidFieldDisabilityTest()[pri:6, instance:com.qa.testCases.EnquiryPageTest@56aac163] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.EnquiryPageTest@56aac163]" name="setUp" is-config="true" duration-ms="48306" started-at="2019-03-19T09:38:36Z" finished-at="2019-03-19T09:39:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="remainingCharacterLengthDescriptionTest()[pri:7, instance:com.qa.testCases.EnquiryPageTest@56aac163]" name="remainingCharacterLengthDescriptionTest" duration-ms="22606" started-at="2019-03-19T09:39:24Z" finished-at="2019-03-19T09:39:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- remainingCharacterLengthDescriptionTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.EnquiryPageTest@56aac163]" name="teardown" is-config="true" duration-ms="71" started-at="2019-03-19T09:39:47Z" finished-at="2019-03-19T09:39:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=remainingCharacterLengthDescriptionTest status=SUCCESS method=EnquiryPageTest.remainingCharacterLengthDescriptionTest()[pri:7, instance:com.qa.testCases.EnquiryPageTest@56aac163] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.EnquiryPageTest@56aac163]" name="setUp" is-config="true" duration-ms="48241" started-at="2019-03-19T09:39:47Z" finished-at="2019-03-19T09:40:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="chooseFileOfEnquirySectiontest()[pri:8, instance:com.qa.testCases.EnquiryPageTest@56aac163]" name="chooseFileOfEnquirySectiontest" duration-ms="32864" started-at="2019-03-19T09:40:35Z" finished-at="2019-03-19T09:41:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chooseFileOfEnquirySectiontest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.EnquiryPageTest@56aac163]" name="teardown" is-config="true" duration-ms="71" started-at="2019-03-19T09:41:08Z" finished-at="2019-03-19T09:41:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=chooseFileOfEnquirySectiontest status=SUCCESS method=EnquiryPageTest.chooseFileOfEnquirySectiontest()[pri:8, instance:com.qa.testCases.EnquiryPageTest@56aac163] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.testCases.EnquiryPageTest -->
+    </test> <!-- Test4 -->
+    <test name="Test5" duration-ms="347531" started-at="2019-03-19T09:41:08Z" finished-at="2019-03-19T09:46:56Z">
+      <class name="com.qa.testCases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.LoginPageTest@167fdd33]" name="setUp" is-config="true" duration-ms="48631" started-at="2019-03-19T09:41:08Z" finished-at="2019-03-19T09:41:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest()[pri:1, instance:com.qa.testCases.LoginPageTest@167fdd33]" name="loginTest" duration-ms="13367" started-at="2019-03-19T09:41:57Z" finished-at="2019-03-19T09:42:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testCases.LoginPageTest@167fdd33]" name="tearDown" is-config="true" duration-ms="73" started-at="2019-03-19T09:42:10Z" finished-at="2019-03-19T09:42:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.LoginPageTest@167fdd33]" name="setUp" is-config="true" duration-ms="48226" started-at="2019-03-19T09:42:10Z" finished-at="2019-03-19T09:42:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginpageValidationTest()[pri:2, instance:com.qa.testCases.LoginPageTest@167fdd33]" name="loginpageValidationTest" duration-ms="5103" started-at="2019-03-19T09:42:59Z" finished-at="2019-03-19T09:43:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpageValidationTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testCases.LoginPageTest@167fdd33]" name="tearDown" is-config="true" duration-ms="75" started-at="2019-03-19T09:43:04Z" finished-at="2019-03-19T09:43:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.LoginPageTest@167fdd33]" name="setUp" is-config="true" duration-ms="48960" started-at="2019-03-19T09:43:04Z" finished-at="2019-03-19T09:43:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inValidEmailTest()[pri:3, instance:com.qa.testCases.LoginPageTest@167fdd33]" name="inValidEmailTest" duration-ms="5411" started-at="2019-03-19T09:43:53Z" finished-at="2019-03-19T09:43:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inValidEmailTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testCases.LoginPageTest@167fdd33]" name="tearDown" is-config="true" duration-ms="81" started-at="2019-03-19T09:43:58Z" finished-at="2019-03-19T09:43:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.LoginPageTest@167fdd33]" name="setUp" is-config="true" duration-ms="46340" started-at="2019-03-19T09:43:58Z" finished-at="2019-03-19T09:44:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginWithNotMatchedRecoredsTest()[pri:4, instance:com.qa.testCases.LoginPageTest@167fdd33]" name="loginWithNotMatchedRecoredsTest" duration-ms="5483" started-at="2019-03-19T09:44:44Z" finished-at="2019-03-19T09:44:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithNotMatchedRecoredsTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testCases.LoginPageTest@167fdd33]" name="tearDown" is-config="true" duration-ms="68" started-at="2019-03-19T09:44:50Z" finished-at="2019-03-19T09:44:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.LoginPageTest@167fdd33]" name="setUp" is-config="true" duration-ms="47942" started-at="2019-03-19T09:44:50Z" finished-at="2019-03-19T09:45:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="forgotPasswordTest()[pri:5, instance:com.qa.testCases.LoginPageTest@167fdd33]" name="forgotPasswordTest" duration-ms="15301" started-at="2019-03-19T09:45:38Z" finished-at="2019-03-19T09:45:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotPasswordTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testCases.LoginPageTest@167fdd33]" name="tearDown" is-config="true" duration-ms="72" started-at="2019-03-19T09:45:53Z" finished-at="2019-03-19T09:45:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.LoginPageTest@167fdd33]" name="setUp" is-config="true" duration-ms="47177" started-at="2019-03-19T09:45:53Z" finished-at="2019-03-19T09:46:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ForgotPasswordToLoginPopUpSwitchTest()[pri:6, instance:com.qa.testCases.LoginPageTest@167fdd33]" name="ForgotPasswordToLoginPopUpSwitchTest" duration-ms="15135" started-at="2019-03-19T09:46:41Z" finished-at="2019-03-19T09:46:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ForgotPasswordToLoginPopUpSwitchTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testCases.LoginPageTest@167fdd33]" name="tearDown" is-config="true" duration-ms="78" started-at="2019-03-19T09:46:56Z" finished-at="2019-03-19T09:46:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.testCases.LoginPageTest -->
+    </test> <!-- Test5 -->
+    <test name="Test6" duration-ms="624339" started-at="2019-03-19T09:46:56Z" finished-at="2019-03-19T09:57:20Z">
+      <class name="com.qa.testCases.MyAccountPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.MyAccountPageTest@6acdbdf5]" name="setUp" is-config="true" duration-ms="46363" started-at="2019-03-19T09:46:56Z" finished-at="2019-03-19T09:47:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="MyAccountButtonClickabilityTest()[pri:1, instance:com.qa.testCases.MyAccountPageTest@6acdbdf5]" name="MyAccountButtonClickabilityTest" duration-ms="16447" started-at="2019-03-19T09:47:42Z" finished-at="2019-03-19T09:47:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MyAccountButtonClickabilityTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.MyAccountPageTest@6acdbdf5]" name="teardown" is-config="true" duration-ms="70" started-at="2019-03-19T09:47:59Z" finished-at="2019-03-19T09:47:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=MyAccountButtonClickabilityTest status=SUCCESS method=MyAccountPageTest.MyAccountButtonClickabilityTest()[pri:1, instance:com.qa.testCases.MyAccountPageTest@6acdbdf5] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.MyAccountPageTest@6acdbdf5]" name="setUp" is-config="true" duration-ms="47589" started-at="2019-03-19T09:47:59Z" finished-at="2019-03-19T09:48:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="myAccountPageTitleTest()[pri:2, instance:com.qa.testCases.MyAccountPageTest@6acdbdf5]" name="myAccountPageTitleTest" duration-ms="18145" started-at="2019-03-19T09:48:46Z" finished-at="2019-03-19T09:49:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myAccountPageTitleTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.MyAccountPageTest@6acdbdf5]" name="teardown" is-config="true" duration-ms="70" started-at="2019-03-19T09:49:04Z" finished-at="2019-03-19T09:49:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=myAccountPageTitleTest status=SUCCESS method=MyAccountPageTest.myAccountPageTitleTest()[pri:2, instance:com.qa.testCases.MyAccountPageTest@6acdbdf5] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.MyAccountPageTest@6acdbdf5]" name="setUp" is-config="true" duration-ms="46854" started-at="2019-03-19T09:49:04Z" finished-at="2019-03-19T09:49:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="upGradeNowButtonClickabilityTest()[pri:3, instance:com.qa.testCases.MyAccountPageTest@6acdbdf5]" name="upGradeNowButtonClickabilityTest" duration-ms="21443" started-at="2019-03-19T09:49:51Z" finished-at="2019-03-19T09:50:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- upGradeNowButtonClickabilityTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.MyAccountPageTest@6acdbdf5]" name="teardown" is-config="true" duration-ms="72" started-at="2019-03-19T09:50:13Z" finished-at="2019-03-19T09:50:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=upGradeNowButtonClickabilityTest status=SUCCESS method=MyAccountPageTest.upGradeNowButtonClickabilityTest()[pri:3, instance:com.qa.testCases.MyAccountPageTest@6acdbdf5] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.MyAccountPageTest@6acdbdf5]" name="setUp" is-config="true" duration-ms="47461" started-at="2019-03-19T09:50:13Z" finished-at="2019-03-19T09:51:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="editButtonClickabilityTest()[pri:4, instance:com.qa.testCases.MyAccountPageTest@6acdbdf5]" name="editButtonClickabilityTest" duration-ms="17890" started-at="2019-03-19T09:51:00Z" finished-at="2019-03-19T09:51:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editButtonClickabilityTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.MyAccountPageTest@6acdbdf5]" name="teardown" is-config="true" duration-ms="70" started-at="2019-03-19T09:51:18Z" finished-at="2019-03-19T09:51:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=editButtonClickabilityTest status=SUCCESS method=MyAccountPageTest.editButtonClickabilityTest()[pri:4, instance:com.qa.testCases.MyAccountPageTest@6acdbdf5] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.MyAccountPageTest@6acdbdf5]" name="setUp" is-config="true" duration-ms="46157" started-at="2019-03-19T09:51:18Z" finished-at="2019-03-19T09:52:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="fieldDisabilityTestBeforEdit()[pri:5, instance:com.qa.testCases.MyAccountPageTest@6acdbdf5]" name="fieldDisabilityTestBeforEdit" duration-ms="17999" started-at="2019-03-19T09:52:04Z" finished-at="2019-03-19T09:52:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fieldDisabilityTestBeforEdit -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.MyAccountPageTest@6acdbdf5]" name="teardown" is-config="true" duration-ms="71" started-at="2019-03-19T09:52:22Z" finished-at="2019-03-19T09:52:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=fieldDisabilityTestBeforEdit status=SUCCESS method=MyAccountPageTest.fieldDisabilityTestBeforEdit()[pri:5, instance:com.qa.testCases.MyAccountPageTest@6acdbdf5] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.MyAccountPageTest@6acdbdf5]" name="setUp" is-config="true" duration-ms="46394" started-at="2019-03-19T09:52:22Z" finished-at="2019-03-19T09:53:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="updateAccountInfoTest()[pri:6, instance:com.qa.testCases.MyAccountPageTest@6acdbdf5]" name="updateAccountInfoTest" duration-ms="23548" started-at="2019-03-19T09:53:09Z" finished-at="2019-03-19T09:53:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateAccountInfoTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.MyAccountPageTest@6acdbdf5]" name="teardown" is-config="true" duration-ms="72" started-at="2019-03-19T09:53:32Z" finished-at="2019-03-19T09:53:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=updateAccountInfoTest status=SUCCESS method=MyAccountPageTest.updateAccountInfoTest()[pri:6, instance:com.qa.testCases.MyAccountPageTest@6acdbdf5] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.MyAccountPageTest@6acdbdf5]" name="setUp" is-config="true" duration-ms="46649" started-at="2019-03-19T09:53:32Z" finished-at="2019-03-19T09:54:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="upgradeNowPageTest()[pri:7, instance:com.qa.testCases.MyAccountPageTest@6acdbdf5]" name="upgradeNowPageTest" duration-ms="19280" started-at="2019-03-19T09:54:19Z" finished-at="2019-03-19T09:54:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- upgradeNowPageTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.MyAccountPageTest@6acdbdf5]" name="teardown" is-config="true" duration-ms="70" started-at="2019-03-19T09:54:38Z" finished-at="2019-03-19T09:54:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=upgradeNowPageTest status=SUCCESS method=MyAccountPageTest.upgradeNowPageTest()[pri:7, instance:com.qa.testCases.MyAccountPageTest@6acdbdf5] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.MyAccountPageTest@6acdbdf5]" name="setUp" is-config="true" duration-ms="48385" started-at="2019-03-19T09:54:38Z" finished-at="2019-03-19T09:55:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="SubscriptioTypeButtonClickabilityTest()[pri:8, instance:com.qa.testCases.MyAccountPageTest@6acdbdf5]" name="SubscriptioTypeButtonClickabilityTest" duration-ms="20337" started-at="2019-03-19T09:55:27Z" finished-at="2019-03-19T09:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SubscriptioTypeButtonClickabilityTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.MyAccountPageTest@6acdbdf5]" name="teardown" is-config="true" duration-ms="77" started-at="2019-03-19T09:55:47Z" finished-at="2019-03-19T09:55:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SubscriptioTypeButtonClickabilityTest status=SUCCESS method=MyAccountPageTest.SubscriptioTypeButtonClickabilityTest()[pri:8, instance:com.qa.testCases.MyAccountPageTest@6acdbdf5] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.MyAccountPageTest@6acdbdf5]" name="setUp" is-config="true" duration-ms="63615" started-at="2019-03-19T09:55:47Z" finished-at="2019-03-19T09:56:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="SwitchToPayPalLoginTest()[pri:9, instance:com.qa.testCases.MyAccountPageTest@6acdbdf5]" name="SwitchToPayPalLoginTest" duration-ms="29129" started-at="2019-03-19T09:56:51Z" finished-at="2019-03-19T09:57:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SwitchToPayPalLoginTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.MyAccountPageTest@6acdbdf5]" name="teardown" is-config="true" duration-ms="73" started-at="2019-03-19T09:57:20Z" finished-at="2019-03-19T09:57:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SwitchToPayPalLoginTest status=SUCCESS method=MyAccountPageTest.SwitchToPayPalLoginTest()[pri:9, instance:com.qa.testCases.MyAccountPageTest@6acdbdf5] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.testCases.MyAccountPageTest -->
+    </test> <!-- Test6 -->
+    <test name="Test7" duration-ms="188728" started-at="2019-03-19T09:57:20Z" finished-at="2019-03-19T10:00:29Z">
+      <class name="com.qa.testCases.PastAdTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.PastAdTest@2d8f65a4]" name="setUp" is-config="true" duration-ms="46520" started-at="2019-03-19T09:57:20Z" finished-at="2019-03-19T09:58:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="pastAdClickability()[pri:1, instance:com.qa.testCases.PastAdTest@2d8f65a4]" name="pastAdClickability" duration-ms="13581" started-at="2019-03-19T09:58:07Z" finished-at="2019-03-19T09:58:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pastAdClickability -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.PastAdTest@2d8f65a4]" name="teardown" is-config="true" duration-ms="76" started-at="2019-03-19T09:58:20Z" finished-at="2019-03-19T09:58:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=pastAdClickability status=SUCCESS method=PastAdTest.pastAdClickability()[pri:1, instance:com.qa.testCases.PastAdTest@2d8f65a4] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.PastAdTest@2d8f65a4]" name="setUp" is-config="true" duration-ms="46450" started-at="2019-03-19T09:58:20Z" finished-at="2019-03-19T09:59:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="pastAdPageTitletest()[pri:2, instance:com.qa.testCases.PastAdTest@2d8f65a4]" name="pastAdPageTitletest" duration-ms="17895" started-at="2019-03-19T09:59:07Z" finished-at="2019-03-19T09:59:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pastAdPageTitletest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.PastAdTest@2d8f65a4]" name="teardown" is-config="true" duration-ms="74" started-at="2019-03-19T09:59:25Z" finished-at="2019-03-19T09:59:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=pastAdPageTitletest status=SUCCESS method=PastAdTest.pastAdPageTitletest()[pri:2, instance:com.qa.testCases.PastAdTest@2d8f65a4] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.PastAdTest@2d8f65a4]" name="setUp" is-config="true" duration-ms="46172" started-at="2019-03-19T09:59:25Z" finished-at="2019-03-19T10:00:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="noPastAdMessageTest()[pri:3, instance:com.qa.testCases.PastAdTest@2d8f65a4]" name="noPastAdMessageTest" duration-ms="17885" started-at="2019-03-19T10:00:11Z" finished-at="2019-03-19T10:00:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- noPastAdMessageTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.PastAdTest@2d8f65a4]" name="teardown" is-config="true" duration-ms="69" started-at="2019-03-19T10:00:29Z" finished-at="2019-03-19T10:00:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=noPastAdMessageTest status=SUCCESS method=PastAdTest.noPastAdMessageTest()[pri:3, instance:com.qa.testCases.PastAdTest@2d8f65a4] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.testCases.PastAdTest -->
+    </test> <!-- Test7 -->
+    <test name="Test8" duration-ms="805076" started-at="2019-03-19T10:00:29Z" finished-at="2019-03-19T10:13:54Z">
+      <class name="com.qa.testCases.PostAddTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.PostAddTest@4493d195]" name="setUp" is-config="true" duration-ms="47731" started-at="2019-03-19T10:00:29Z" finished-at="2019-03-19T10:01:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="postAddButtonClickabilityTest()[pri:1, instance:com.qa.testCases.PostAddTest@4493d195]" name="postAddButtonClickabilityTest" duration-ms="23" started-at="2019-03-19T10:01:17Z" finished-at="2019-03-19T10:01:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postAddButtonClickabilityTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testCases.PostAddTest@4493d195]" name="tearDown" is-config="true" duration-ms="72" started-at="2019-03-19T10:01:17Z" finished-at="2019-03-19T10:01:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.PostAddTest@4493d195]" name="setUp" is-config="true" duration-ms="49559" started-at="2019-03-19T10:01:17Z" finished-at="2019-03-19T10:02:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="requiredFieldVerificationTest()[pri:2, instance:com.qa.testCases.PostAddTest@4493d195]" name="requiredFieldVerificationTest" duration-ms="18309" started-at="2019-03-19T10:02:06Z" finished-at="2019-03-19T10:02:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- requiredFieldVerificationTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testCases.PostAddTest@4493d195]" name="tearDown" is-config="true" duration-ms="71" started-at="2019-03-19T10:02:25Z" finished-at="2019-03-19T10:02:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.PostAddTest@4493d195]" name="setUp" is-config="true" duration-ms="46392" started-at="2019-03-19T10:02:25Z" finished-at="2019-03-19T10:03:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="requiredFieldValidationTest()[pri:3, instance:com.qa.testCases.PostAddTest@4493d195]" name="requiredFieldValidationTest" duration-ms="38031" started-at="2019-03-19T10:03:11Z" finished-at="2019-03-19T10:03:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- requiredFieldValidationTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testCases.PostAddTest@4493d195]" name="tearDown" is-config="true" duration-ms="73" started-at="2019-03-19T10:03:49Z" finished-at="2019-03-19T10:03:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.PostAddTest@4493d195]" name="setUp" is-config="true" duration-ms="46327" started-at="2019-03-19T10:03:49Z" finished-at="2019-03-19T10:04:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="FAIL" signature="verfyPostAdPageTest()[pri:4, instance:com.qa.testCases.PostAddTest@4493d195]" name="verfyPostAdPageTest" duration-ms="20061" started-at="2019-03-19T10:04:35Z" finished-at="2019-03-19T10:04:55Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//h3[text()=' Post Your Free Ads ']"}
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=2.46.628388 (4a34a70827ac54148e092aafb70504c4ea7ae926),platform=Linux 4.4.0-142-generic x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'saffron-H81M-S', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.0-142-generic', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628388 (4a34a70827ac54..., userDataDir: /tmp/.org.chromium.Chromium...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:36923}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 2e08ff0760bf4a5a73fdca3cb64e307a
+*** Element info: {Using=xpath, value=//h3[text()=' Post Your Free Ads ']}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//h3[text()=' Post Your Free Ads ']"}
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=2.46.628388 (4a34a70827ac54148e092aafb70504c4ea7ae926),platform=Linux 4.4.0-142-generic x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'saffron-H81M-S', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.0-142-generic', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628388 (4a34a70827ac54..., userDataDir: /tmp/.org.chromium.Chromium...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:36923}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 2e08ff0760bf4a5a73fdca3cb64e307a
+*** Element info: {Using=xpath, value=//h3[text()=' Post Your Free Ads ']}
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at com.qa.pages.PostAddPage.verifyPostFreeAdPage(PostAddPage.java:193)
+at com.qa.testCases.PostAddTest.verfyPostAdPageTest(PostAddTest.java:61)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='/home/day/eclipse-workspace/WeeklyPaper/target/surefire-reports/failure_screenshots/verfyPostAdPageTest_19_03_2019_03_34_55.png'> <img src='/home/day/eclipse-workspace/WeeklyPaper/target/surefire-reports/failure_screenshots/verfyPostAdPageTest_19_03_2019_03_34_55.png' height='100' width='100'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verfyPostAdPageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testCases.PostAddTest@4493d195]" name="tearDown" is-config="true" duration-ms="74" started-at="2019-03-19T10:04:56Z" finished-at="2019-03-19T10:04:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.PostAddTest@4493d195]" name="setUp" is-config="true" duration-ms="47081" started-at="2019-03-19T10:04:56Z" finished-at="2019-03-19T10:05:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="postAddTest()[pri:5, instance:com.qa.testCases.PostAddTest@4493d195]" name="postAddTest" duration-ms="49859" started-at="2019-03-19T10:05:43Z" finished-at="2019-03-19T10:06:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postAddTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testCases.PostAddTest@4493d195]" name="tearDown" is-config="true" duration-ms="74" started-at="2019-03-19T10:06:33Z" finished-at="2019-03-19T10:06:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.PostAddTest@4493d195]" name="setUp" is-config="true" duration-ms="47045" started-at="2019-03-19T10:06:33Z" finished-at="2019-03-19T10:07:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="FAIL" signature="categoryCountTest()[pri:6, instance:com.qa.testCases.PostAddTest@4493d195]" name="categoryCountTest" duration-ms="20068" started-at="2019-03-19T10:07:20Z" finished-at="2019-03-19T10:07:40Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//select[@id='category_id']"}
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=2.46.628388 (4a34a70827ac54148e092aafb70504c4ea7ae926),platform=Linux 4.4.0-142-generic x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'saffron-H81M-S', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.0-142-generic', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628388 (4a34a70827ac54..., userDataDir: /tmp/.org.chromium.Chromium...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:46764}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 66c7bd3099a79c83f409ed4ba94000de
+*** Element info: {Using=xpath, value=//select[@id='category_id']}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//select[@id='category_id']"}
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=2.46.628388 (4a34a70827ac54148e092aafb70504c4ea7ae926),platform=Linux 4.4.0-142-generic x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'saffron-H81M-S', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.0-142-generic', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628388 (4a34a70827ac54..., userDataDir: /tmp/.org.chromium.Chromium...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:46764}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 66c7bd3099a79c83f409ed4ba94000de
+*** Element info: {Using=xpath, value=//select[@id='category_id']}
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at com.qa.pages.PostAddPage.countCategoryonPostAddPage(PostAddPage.java:207)
+at com.qa.testCases.PostAddTest.categoryCountTest(PostAddTest.java:83)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='/home/day/eclipse-workspace/WeeklyPaper/target/surefire-reports/failure_screenshots/categoryCountTest_19_03_2019_03_37_40.png'> <img src='/home/day/eclipse-workspace/WeeklyPaper/target/surefire-reports/failure_screenshots/categoryCountTest_19_03_2019_03_37_40.png' height='100' width='100'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- categoryCountTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testCases.PostAddTest@4493d195]" name="tearDown" is-config="true" duration-ms="71" started-at="2019-03-19T10:07:40Z" finished-at="2019-03-19T10:07:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.PostAddTest@4493d195]" name="setUp" is-config="true" duration-ms="51918" started-at="2019-03-19T10:07:40Z" finished-at="2019-03-19T10:08:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="uploadImageTest()[pri:7, instance:com.qa.testCases.PostAddTest@4493d195]" name="uploadImageTest" duration-ms="54637" started-at="2019-03-19T10:08:32Z" finished-at="2019-03-19T10:09:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uploadImageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testCases.PostAddTest@4493d195]" name="tearDown" is-config="true" duration-ms="69" started-at="2019-03-19T10:09:27Z" finished-at="2019-03-19T10:09:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.PostAddTest@4493d195]" name="setUp" is-config="true" duration-ms="47039" started-at="2019-03-19T10:09:27Z" finished-at="2019-03-19T10:10:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="VerifydeleteAdTest()[pri:8, instance:com.qa.testCases.PostAddTest@4493d195]" name="VerifydeleteAdTest" duration-ms="26252" started-at="2019-03-19T10:10:14Z" finished-at="2019-03-19T10:10:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifydeleteAdTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testCases.PostAddTest@4493d195]" name="tearDown" is-config="true" duration-ms="77" started-at="2019-03-19T10:10:40Z" finished-at="2019-03-19T10:10:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.PostAddTest@4493d195]" name="setUp" is-config="true" duration-ms="48419" started-at="2019-03-19T10:10:40Z" finished-at="2019-03-19T10:11:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="SubCategoryCorresspondingCategoryTest()[pri:9, instance:com.qa.testCases.PostAddTest@4493d195]" name="SubCategoryCorresspondingCategoryTest" duration-ms="35426" started-at="2019-03-19T10:11:29Z" finished-at="2019-03-19T10:12:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SubCategoryCorresspondingCategoryTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testCases.PostAddTest@4493d195]" name="tearDown" is-config="true" duration-ms="75" started-at="2019-03-19T10:12:04Z" finished-at="2019-03-19T10:12:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.PostAddTest@4493d195]" name="setUp" is-config="true" duration-ms="46503" started-at="2019-03-19T10:12:04Z" finished-at="2019-03-19T10:12:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="tabFunctionalityOfPostAdFormTest()[pri:10, instance:com.qa.testCases.PostAddTest@4493d195]" name="tabFunctionalityOfPostAdFormTest" duration-ms="63238" started-at="2019-03-19T10:12:51Z" finished-at="2019-03-19T10:13:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tabFunctionalityOfPostAdFormTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testCases.PostAddTest@4493d195]" name="tearDown" is-config="true" duration-ms="73" started-at="2019-03-19T10:13:54Z" finished-at="2019-03-19T10:13:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.testCases.PostAddTest -->
+    </test> <!-- Test8 -->
+    <test name="Test9" duration-ms="491454" started-at="2019-03-19T10:13:54Z" finished-at="2019-03-19T10:22:05Z">
+      <class name="com.qa.testCases.ReceivedEnquiryPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.ReceivedEnquiryPageTest@34cd072c]" name="setUp" is-config="true" duration-ms="46854" started-at="2019-03-19T10:13:54Z" finished-at="2019-03-19T10:14:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="receivedLinkClickabilityTest()[pri:1, instance:com.qa.testCases.ReceivedEnquiryPageTest@34cd072c]" name="receivedLinkClickabilityTest" duration-ms="16325" started-at="2019-03-19T10:14:41Z" finished-at="2019-03-19T10:14:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- receivedLinkClickabilityTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.ReceivedEnquiryPageTest@34cd072c]" name="teardown" is-config="true" duration-ms="69" started-at="2019-03-19T10:14:57Z" finished-at="2019-03-19T10:14:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=receivedLinkClickabilityTest status=SUCCESS method=ReceivedEnquiryPageTest.receivedLinkClickabilityTest()[pri:1, instance:com.qa.testCases.ReceivedEnquiryPageTest@34cd072c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.ReceivedEnquiryPageTest@34cd072c]" name="setUp" is-config="true" duration-ms="46906" started-at="2019-03-19T10:14:57Z" finished-at="2019-03-19T10:15:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="receivedEnquiryPageTitleTest()[pri:2, instance:com.qa.testCases.ReceivedEnquiryPageTest@34cd072c]" name="receivedEnquiryPageTitleTest" duration-ms="17876" started-at="2019-03-19T10:15:44Z" finished-at="2019-03-19T10:16:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- receivedEnquiryPageTitleTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.ReceivedEnquiryPageTest@34cd072c]" name="teardown" is-config="true" duration-ms="74" started-at="2019-03-19T10:16:02Z" finished-at="2019-03-19T10:16:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=receivedEnquiryPageTitleTest status=SUCCESS method=ReceivedEnquiryPageTest.receivedEnquiryPageTitleTest()[pri:2, instance:com.qa.testCases.ReceivedEnquiryPageTest@34cd072c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.ReceivedEnquiryPageTest@34cd072c]" name="setUp" is-config="true" duration-ms="47330" started-at="2019-03-19T10:16:02Z" finished-at="2019-03-19T10:16:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="productLinkClickabiltyTest()[pri:3, instance:com.qa.testCases.ReceivedEnquiryPageTest@34cd072c]" name="productLinkClickabiltyTest" duration-ms="19848" started-at="2019-03-19T10:16:49Z" finished-at="2019-03-19T10:17:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productLinkClickabiltyTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.ReceivedEnquiryPageTest@34cd072c]" name="teardown" is-config="true" duration-ms="73" started-at="2019-03-19T10:17:09Z" finished-at="2019-03-19T10:17:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=productLinkClickabiltyTest status=SUCCESS method=ReceivedEnquiryPageTest.productLinkClickabiltyTest()[pri:3, instance:com.qa.testCases.ReceivedEnquiryPageTest@34cd072c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.ReceivedEnquiryPageTest@34cd072c]" name="setUp" is-config="true" duration-ms="46873" started-at="2019-03-19T10:17:09Z" finished-at="2019-03-19T10:17:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="FAIL" signature="fileLinkClickabilityTest()[pri:4, instance:com.qa.testCases.ReceivedEnquiryPageTest@34cd072c]" name="fileLinkClickabilityTest" duration-ms="39857" started-at="2019-03-19T10:17:56Z" finished-at="2019-03-19T10:18:36Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='File Link']"}
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=2.46.628388 (4a34a70827ac54148e092aafb70504c4ea7ae926),platform=Linux 4.4.0-142-generic x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'saffron-H81M-S', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.0-142-generic', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628388 (4a34a70827ac54..., userDataDir: /tmp/.org.chromium.Chromium...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:33172}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 19523df87d8f42b4c97bcf1c21802fa6
+*** Element info: {Using=xpath, value=//a[text()='File Link']}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='File Link']"}
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=2.46.628388 (4a34a70827ac54148e092aafb70504c4ea7ae926),platform=Linux 4.4.0-142-generic x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'saffron-H81M-S', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.0-142-generic', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628388 (4a34a70827ac54..., userDataDir: /tmp/.org.chromium.Chromium...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:33172}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 19523df87d8f42b4c97bcf1c21802fa6
+*** Element info: {Using=xpath, value=//a[text()='File Link']}
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at com.sun.proxy.$Proxy9.isEnabled(Unknown Source)
+at com.qa.pages.ReceivedEnquiryPage.fileLinkClickability(ReceivedEnquiryPage.java:73)
+at com.qa.testCases.ReceivedEnquiryPageTest.fileLinkClickabilityTest(ReceivedEnquiryPageTest.java:64)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='/home/day/eclipse-workspace/WeeklyPaper/target/surefire-reports/failure_screenshots/fileLinkClickabilityTest_19_03_2019_03_48_36.png'> <img src='/home/day/eclipse-workspace/WeeklyPaper/target/surefire-reports/failure_screenshots/fileLinkClickabilityTest_19_03_2019_03_48_36.png' height='100' width='100'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- fileLinkClickabilityTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.ReceivedEnquiryPageTest@34cd072c]" name="teardown" is-config="true" duration-ms="167" started-at="2019-03-19T10:18:36Z" finished-at="2019-03-19T10:18:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=fileLinkClickabilityTest status=FAILURE method=ReceivedEnquiryPageTest.fileLinkClickabilityTest()[pri:4, instance:com.qa.testCases.ReceivedEnquiryPageTest@34cd072c] output=<a href='/home/day/eclipse-workspace/WeeklyPaper/target/surefire-reports/failure_screenshots/fileLinkClickabilityTest_19_03_2019_03_48_36.png'> <img src='/home/day/eclipse-workspace/WeeklyPaper/target/surefire-reports/failure_screenshots/fileLinkClickabilityTest_19_03_2019_03_48_36.png' height='100' width='100'/> </a>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.ReceivedEnquiryPageTest@34cd072c]" name="setUp" is-config="true" duration-ms="46539" started-at="2019-03-19T10:18:36Z" finished-at="2019-03-19T10:19:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="deleteLinkClickabilityTest()[pri:5, instance:com.qa.testCases.ReceivedEnquiryPageTest@34cd072c]" name="deleteLinkClickabilityTest" duration-ms="19946" started-at="2019-03-19T10:19:23Z" finished-at="2019-03-19T10:19:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteLinkClickabilityTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.ReceivedEnquiryPageTest@34cd072c]" name="teardown" is-config="true" duration-ms="74" started-at="2019-03-19T10:19:43Z" finished-at="2019-03-19T10:19:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=deleteLinkClickabilityTest status=SUCCESS method=ReceivedEnquiryPageTest.deleteLinkClickabilityTest()[pri:5, instance:com.qa.testCases.ReceivedEnquiryPageTest@34cd072c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.ReceivedEnquiryPageTest@34cd072c]" name="setUp" is-config="true" duration-ms="47113" started-at="2019-03-19T10:19:43Z" finished-at="2019-03-19T10:20:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyproductLinkOnProductPageTest()[pri:6, instance:com.qa.testCases.ReceivedEnquiryPageTest@34cd072c]" name="verifyproductLinkOnProductPageTest" duration-ms="24435" started-at="2019-03-19T10:20:30Z" finished-at="2019-03-19T10:20:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyproductLinkOnProductPageTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.ReceivedEnquiryPageTest@34cd072c]" name="teardown" is-config="true" duration-ms="71" started-at="2019-03-19T10:20:54Z" finished-at="2019-03-19T10:20:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyproductLinkOnProductPageTest status=SUCCESS method=ReceivedEnquiryPageTest.verifyproductLinkOnProductPageTest()[pri:6, instance:com.qa.testCases.ReceivedEnquiryPageTest@34cd072c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.ReceivedEnquiryPageTest@34cd072c]" name="setUp" is-config="true" duration-ms="48287" started-at="2019-03-19T10:20:54Z" finished-at="2019-03-19T10:21:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="DeleteReceivedEnquiryTest()[pri:7, instance:com.qa.testCases.ReceivedEnquiryPageTest@34cd072c]" name="DeleteReceivedEnquiryTest" duration-ms="22563" started-at="2019-03-19T10:21:43Z" finished-at="2019-03-19T10:22:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteReceivedEnquiryTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.ReceivedEnquiryPageTest@34cd072c]" name="teardown" is-config="true" duration-ms="78" started-at="2019-03-19T10:22:05Z" finished-at="2019-03-19T10:22:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=DeleteReceivedEnquiryTest status=SUCCESS method=ReceivedEnquiryPageTest.DeleteReceivedEnquiryTest()[pri:7, instance:com.qa.testCases.ReceivedEnquiryPageTest@34cd072c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.testCases.ReceivedEnquiryPageTest -->
+    </test> <!-- Test9 -->
+    <test name="Test10" duration-ms="240049" started-at="2019-03-19T10:22:05Z" finished-at="2019-03-19T10:26:05Z">
+      <class name="com.qa.testCases.SearchPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.SearchPageTest@33c7e1bb]" name="setUp" is-config="true" duration-ms="46283" started-at="2019-03-19T10:22:05Z" finished-at="2019-03-19T10:22:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="searchWithEmptyKeywordTest()[pri:1, instance:com.qa.testCases.SearchPageTest@33c7e1bb]" name="searchWithEmptyKeywordTest" duration-ms="62" started-at="2019-03-19T10:22:52Z" finished-at="2019-03-19T10:22:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchWithEmptyKeywordTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.SearchPageTest@33c7e1bb]" name="teardown" is-config="true" duration-ms="75" started-at="2019-03-19T10:22:52Z" finished-at="2019-03-19T10:22:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=searchWithEmptyKeywordTest status=SUCCESS method=SearchPageTest.searchWithEmptyKeywordTest()[pri:1, instance:com.qa.testCases.SearchPageTest@33c7e1bb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.SearchPageTest@33c7e1bb]" name="setUp" is-config="true" duration-ms="46342" started-at="2019-03-19T10:22:52Z" finished-at="2019-03-19T10:23:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="searchButtonClickabilityTest()[pri:2, instance:com.qa.testCases.SearchPageTest@33c7e1bb]" name="searchButtonClickabilityTest" duration-ms="24" started-at="2019-03-19T10:23:38Z" finished-at="2019-03-19T10:23:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchButtonClickabilityTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.SearchPageTest@33c7e1bb]" name="teardown" is-config="true" duration-ms="73" started-at="2019-03-19T10:23:38Z" finished-at="2019-03-19T10:23:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=searchButtonClickabilityTest status=SUCCESS method=SearchPageTest.searchButtonClickabilityTest()[pri:2, instance:com.qa.testCases.SearchPageTest@33c7e1bb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.SearchPageTest@33c7e1bb]" name="setUp" is-config="true" duration-ms="46195" started-at="2019-03-19T10:23:38Z" finished-at="2019-03-19T10:24:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="NoResultFoundOnSearchTest()[pri:3, instance:com.qa.testCases.SearchPageTest@33c7e1bb]" name="NoResultFoundOnSearchTest" duration-ms="2572" started-at="2019-03-19T10:24:24Z" finished-at="2019-03-19T10:24:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NoResultFoundOnSearchTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.SearchPageTest@33c7e1bb]" name="teardown" is-config="true" duration-ms="68" started-at="2019-03-19T10:24:27Z" finished-at="2019-03-19T10:24:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=NoResultFoundOnSearchTest status=SUCCESS method=SearchPageTest.NoResultFoundOnSearchTest()[pri:3, instance:com.qa.testCases.SearchPageTest@33c7e1bb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.SearchPageTest@33c7e1bb]" name="setUp" is-config="true" duration-ms="46940" started-at="2019-03-19T10:24:27Z" finished-at="2019-03-19T10:25:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifySearchResultTest()[pri:4, instance:com.qa.testCases.SearchPageTest@33c7e1bb]" name="verifySearchResultTest" duration-ms="4221" started-at="2019-03-19T10:25:14Z" finished-at="2019-03-19T10:25:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchResultTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.SearchPageTest@33c7e1bb]" name="teardown" is-config="true" duration-ms="69" started-at="2019-03-19T10:25:18Z" finished-at="2019-03-19T10:25:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifySearchResultTest status=SUCCESS method=SearchPageTest.verifySearchResultTest()[pri:4, instance:com.qa.testCases.SearchPageTest@33c7e1bb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.SearchPageTest@33c7e1bb]" name="setUp" is-config="true" duration-ms="47022" started-at="2019-03-19T10:25:18Z" finished-at="2019-03-19T10:26:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="placeholderTest()[pri:5, instance:com.qa.testCases.SearchPageTest@33c7e1bb]" name="placeholderTest" duration-ms="22" started-at="2019-03-19T10:26:05Z" finished-at="2019-03-19T10:26:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- placeholderTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.SearchPageTest@33c7e1bb]" name="teardown" is-config="true" duration-ms="74" started-at="2019-03-19T10:26:05Z" finished-at="2019-03-19T10:26:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=placeholderTest status=SUCCESS method=SearchPageTest.placeholderTest()[pri:5, instance:com.qa.testCases.SearchPageTest@33c7e1bb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.testCases.SearchPageTest -->
+    </test> <!-- Test10 -->
+    <test name="Test11" duration-ms="365259" started-at="2019-03-19T10:26:05Z" finished-at="2019-03-19T10:32:11Z">
+      <class name="com.qa.testCases.SentEnquiryTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.SentEnquiryTest@bd8db5a]" name="setUp" is-config="true" duration-ms="49180" started-at="2019-03-19T10:26:05Z" finished-at="2019-03-19T10:26:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="sentEnquiryLinkTest()[pri:1, instance:com.qa.testCases.SentEnquiryTest@bd8db5a]" name="sentEnquiryLinkTest" duration-ms="19134" started-at="2019-03-19T10:26:55Z" finished-at="2019-03-19T10:27:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sentEnquiryLinkTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.SentEnquiryTest@bd8db5a]" name="teardown" is-config="true" duration-ms="72" started-at="2019-03-19T10:27:14Z" finished-at="2019-03-19T10:27:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=sentEnquiryLinkTest status=SUCCESS method=SentEnquiryTest.sentEnquiryLinkTest()[pri:1, instance:com.qa.testCases.SentEnquiryTest@bd8db5a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.SentEnquiryTest@bd8db5a]" name="setUp" is-config="true" duration-ms="55980" started-at="2019-03-19T10:27:14Z" finished-at="2019-03-19T10:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="sentEnquiryPageTitleTest()[pri:2, instance:com.qa.testCases.SentEnquiryTest@bd8db5a]" name="sentEnquiryPageTitleTest" duration-ms="17762" started-at="2019-03-19T10:28:10Z" finished-at="2019-03-19T10:28:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sentEnquiryPageTitleTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.SentEnquiryTest@bd8db5a]" name="teardown" is-config="true" duration-ms="70" started-at="2019-03-19T10:28:28Z" finished-at="2019-03-19T10:28:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=sentEnquiryPageTitleTest status=SUCCESS method=SentEnquiryTest.sentEnquiryPageTitleTest()[pri:2, instance:com.qa.testCases.SentEnquiryTest@bd8db5a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.SentEnquiryTest@bd8db5a]" name="setUp" is-config="true" duration-ms="46654" started-at="2019-03-19T10:28:28Z" finished-at="2019-03-19T10:29:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyLinkOnSentEnquiryPageTest()[pri:3, instance:com.qa.testCases.SentEnquiryTest@bd8db5a]" name="verifyLinkOnSentEnquiryPageTest" duration-ms="18107" started-at="2019-03-19T10:29:14Z" finished-at="2019-03-19T10:29:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLinkOnSentEnquiryPageTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.SentEnquiryTest@bd8db5a]" name="teardown" is-config="true" duration-ms="74" started-at="2019-03-19T10:29:32Z" finished-at="2019-03-19T10:29:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyLinkOnSentEnquiryPageTest status=SUCCESS method=SentEnquiryTest.verifyLinkOnSentEnquiryPageTest()[pri:3, instance:com.qa.testCases.SentEnquiryTest@bd8db5a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.SentEnquiryTest@bd8db5a]" name="setUp" is-config="true" duration-ms="46644" started-at="2019-03-19T10:29:32Z" finished-at="2019-03-19T10:30:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="FAIL" signature="verifyEnquiredProductTest()[pri:4, instance:com.qa.testCases.SentEnquiryTest@bd8db5a]" name="verifyEnquiredProductTest" duration-ms="42859" started-at="2019-03-19T10:30:19Z" finished-at="2019-03-19T10:31:02Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//h2[text()=' gfhf ']"}
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=2.46.628388 (4a34a70827ac54148e092aafb70504c4ea7ae926),platform=Linux 4.4.0-142-generic x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'saffron-H81M-S', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.0-142-generic', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628388 (4a34a70827ac54..., userDataDir: /tmp/.org.chromium.Chromium...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:39727}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 7f822c79b64001599bc882ee8a245575
+*** Element info: {Using=xpath, value=//h2[text()=' gfhf ']}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//h2[text()=' gfhf ']"}
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=2.46.628388 (4a34a70827ac54148e092aafb70504c4ea7ae926),platform=Linux 4.4.0-142-generic x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'saffron-H81M-S', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.0-142-generic', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628388 (4a34a70827ac54..., userDataDir: /tmp/.org.chromium.Chromium...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:39727}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 7f822c79b64001599bc882ee8a245575
+*** Element info: {Using=xpath, value=//h2[text()=' gfhf ']}
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at com.sun.proxy.$Proxy9.getText(Unknown Source)
+at com.qa.pages.SentEnquiryPage.verifyEnquiriedProduct(SentEnquiryPage.java:84)
+at com.qa.testCases.SentEnquiryTest.verifyEnquiredProductTest(SentEnquiryTest.java:63)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='/home/day/eclipse-workspace/WeeklyPaper/target/surefire-reports/failure_screenshots/verifyEnquiredProductTest_19_03_2019_04_01_02.png'> <img src='/home/day/eclipse-workspace/WeeklyPaper/target/surefire-reports/failure_screenshots/verifyEnquiredProductTest_19_03_2019_04_01_02.png' height='100' width='100'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyEnquiredProductTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.SentEnquiryTest@bd8db5a]" name="teardown" is-config="true" duration-ms="870" started-at="2019-03-19T10:31:02Z" finished-at="2019-03-19T10:31:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyEnquiredProductTest status=FAILURE method=SentEnquiryTest.verifyEnquiredProductTest()[pri:4, instance:com.qa.testCases.SentEnquiryTest@bd8db5a] output=<a href='/home/day/eclipse-workspace/WeeklyPaper/target/surefire-reports/failure_screenshots/verifyEnquiredProductTest_19_03_2019_04_01_02.png'> <img src='/home/day/eclipse-workspace/WeeklyPaper/target/surefire-reports/failure_screenshots/verifyEnquiredProductTest_19_03_2019_04_01_02.png' height='100' width='100'/> </a>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.SentEnquiryTest@bd8db5a]" name="setUp" is-config="true" duration-ms="47130" started-at="2019-03-19T10:31:03Z" finished-at="2019-03-19T10:31:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="deleteSentEnquiryTest()[pri:5, instance:com.qa.testCases.SentEnquiryTest@bd8db5a]" name="deleteSentEnquiryTest" duration-ms="20495" started-at="2019-03-19T10:31:50Z" finished-at="2019-03-19T10:32:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteSentEnquiryTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.SentEnquiryTest@bd8db5a]" name="teardown" is-config="true" duration-ms="74" started-at="2019-03-19T10:32:11Z" finished-at="2019-03-19T10:32:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=deleteSentEnquiryTest status=SUCCESS method=SentEnquiryTest.deleteSentEnquiryTest()[pri:5, instance:com.qa.testCases.SentEnquiryTest@bd8db5a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.testCases.SentEnquiryTest -->
+    </test> <!-- Test11 -->
+    <test name="Test12" duration-ms="770063" started-at="2019-03-19T10:32:11Z" finished-at="2019-03-19T10:45:01Z">
+      <class name="com.qa.testCases.SignUpPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.SignUpPageTest@7d70d1b1]" name="setUp" is-config="true" duration-ms="47024" started-at="2019-03-19T10:32:11Z" finished-at="2019-03-19T10:32:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="SignUpPopUpTest()[pri:1, instance:com.qa.testCases.SignUpPageTest@7d70d1b1]" name="SignUpPopUpTest" duration-ms="10077" started-at="2019-03-19T10:32:58Z" finished-at="2019-03-19T10:33:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignUpPopUpTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.SignUpPageTest@7d70d1b1]" name="teardown" is-config="true" duration-ms="68" started-at="2019-03-19T10:33:08Z" finished-at="2019-03-19T10:33:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SignUpPopUpTest status=SUCCESS method=SignUpPageTest.SignUpPopUpTest()[pri:1, instance:com.qa.testCases.SignUpPageTest@7d70d1b1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.SignUpPageTest@7d70d1b1]" name="setUp" is-config="true" duration-ms="46399" started-at="2019-03-19T10:33:08Z" finished-at="2019-03-19T10:33:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="FAIL" signature="SignUpFormTest()[pri:2, instance:com.qa.testCases.SignUpPageTest@7d70d1b1]" name="SignUpFormTest" duration-ms="25752" started-at="2019-03-19T10:33:54Z" finished-at="2019-03-19T10:34:20Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//div[text()='A verification link has been sent to your email address.']"}
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=2.46.628388 (4a34a70827ac54148e092aafb70504c4ea7ae926),platform=Linux 4.4.0-142-generic x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'saffron-H81M-S', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.0-142-generic', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628388 (4a34a70827ac54..., userDataDir: /tmp/.org.chromium.Chromium...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:37141}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 5ca262cd800de92b85fa01a35afa133b
+*** Element info: {Using=xpath, value=//div[text()='A verification link has been sent to your email address.']}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[text()='A verification link has been sent to your email address.']"}
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=2.46.628388 (4a34a70827ac54148e092aafb70504c4ea7ae926),platform=Linux 4.4.0-142-generic x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'saffron-H81M-S', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.0-142-generic', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628388 (4a34a70827ac54..., userDataDir: /tmp/.org.chromium.Chromium...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:37141}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 5ca262cd800de92b85fa01a35afa133b
+*** Element info: {Using=xpath, value=//div[text()='A verification link has been sent to your email address.']}
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at com.sun.proxy.$Proxy9.getText(Unknown Source)
+at com.qa.pages.RegistrationPage.getSignUpMessage(RegistrationPage.java:233)
+at com.qa.testCases.SignUpPageTest.SignUpFormTest(SignUpPageTest.java:55)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='/home/day/eclipse-workspace/WeeklyPaper/target/surefire-reports/failure_screenshots/SignUpFormTest_19_03_2019_04_04_20.png'> <img src='/home/day/eclipse-workspace/WeeklyPaper/target/surefire-reports/failure_screenshots/SignUpFormTest_19_03_2019_04_04_20.png' height='100' width='100'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SignUpFormTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.SignUpPageTest@7d70d1b1]" name="teardown" is-config="true" duration-ms="274" started-at="2019-03-19T10:34:20Z" finished-at="2019-03-19T10:34:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SignUpFormTest status=FAILURE method=SignUpPageTest.SignUpFormTest()[pri:2, instance:com.qa.testCases.SignUpPageTest@7d70d1b1] output=<a href='/home/day/eclipse-workspace/WeeklyPaper/target/surefire-reports/failure_screenshots/SignUpFormTest_19_03_2019_04_04_20.png'> <img src='/home/day/eclipse-workspace/WeeklyPaper/target/surefire-reports/failure_screenshots/SignUpFormTest_19_03_2019_04_04_20.png' height='100' width='100'/> </a>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.SignUpPageTest@7d70d1b1]" name="setUp" is-config="true" duration-ms="46543" started-at="2019-03-19T10:34:21Z" finished-at="2019-03-19T10:35:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="usernameValidationTest()[pri:3, instance:com.qa.testCases.SignUpPageTest@7d70d1b1]" name="usernameValidationTest" duration-ms="5108" started-at="2019-03-19T10:35:07Z" finished-at="2019-03-19T10:35:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- usernameValidationTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.SignUpPageTest@7d70d1b1]" name="teardown" is-config="true" duration-ms="76" started-at="2019-03-19T10:35:12Z" finished-at="2019-03-19T10:35:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=usernameValidationTest status=SUCCESS method=SignUpPageTest.usernameValidationTest()[pri:3, instance:com.qa.testCases.SignUpPageTest@7d70d1b1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.SignUpPageTest@7d70d1b1]" name="setUp" is-config="true" duration-ms="47168" started-at="2019-03-19T10:35:12Z" finished-at="2019-03-19T10:35:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="termsAndConditionsLinkTest()[pri:4, instance:com.qa.testCases.SignUpPageTest@7d70d1b1]" name="termsAndConditionsLinkTest" duration-ms="6568" started-at="2019-03-19T10:35:59Z" finished-at="2019-03-19T10:36:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- termsAndConditionsLinkTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.SignUpPageTest@7d70d1b1]" name="teardown" is-config="true" duration-ms="72" started-at="2019-03-19T10:36:06Z" finished-at="2019-03-19T10:36:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=termsAndConditionsLinkTest status=SUCCESS method=SignUpPageTest.termsAndConditionsLinkTest()[pri:4, instance:com.qa.testCases.SignUpPageTest@7d70d1b1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.SignUpPageTest@7d70d1b1]" name="setUp" is-config="true" duration-ms="46453" started-at="2019-03-19T10:36:06Z" finished-at="2019-03-19T10:36:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="privacyPolicyLinksTest()[pri:5, instance:com.qa.testCases.SignUpPageTest@7d70d1b1]" name="privacyPolicyLinksTest" duration-ms="6496" started-at="2019-03-19T10:36:53Z" finished-at="2019-03-19T10:36:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- privacyPolicyLinksTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.SignUpPageTest@7d70d1b1]" name="teardown" is-config="true" duration-ms="72" started-at="2019-03-19T10:36:59Z" finished-at="2019-03-19T10:36:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=privacyPolicyLinksTest status=SUCCESS method=SignUpPageTest.privacyPolicyLinksTest()[pri:5, instance:com.qa.testCases.SignUpPageTest@7d70d1b1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.SignUpPageTest@7d70d1b1]" name="setUp" is-config="true" duration-ms="46437" started-at="2019-03-19T10:36:59Z" finished-at="2019-03-19T10:37:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="signUpWithalreadyRegisteredEmail()[pri:6, instance:com.qa.testCases.SignUpPageTest@7d70d1b1]" name="signUpWithalreadyRegisteredEmail" duration-ms="6742" started-at="2019-03-19T10:37:46Z" finished-at="2019-03-19T10:37:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUpWithalreadyRegisteredEmail -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.SignUpPageTest@7d70d1b1]" name="teardown" is-config="true" duration-ms="71" started-at="2019-03-19T10:37:52Z" finished-at="2019-03-19T10:37:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=signUpWithalreadyRegisteredEmail status=SUCCESS method=SignUpPageTest.signUpWithalreadyRegisteredEmail()[pri:6, instance:com.qa.testCases.SignUpPageTest@7d70d1b1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.SignUpPageTest@7d70d1b1]" name="setUp" is-config="true" duration-ms="64050" started-at="2019-03-19T10:37:52Z" finished-at="2019-03-19T10:38:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="passwordAndConfirmPasswordMismatchTest()[pri:7, instance:com.qa.testCases.SignUpPageTest@7d70d1b1]" name="passwordAndConfirmPasswordMismatchTest" duration-ms="6721" started-at="2019-03-19T10:38:56Z" finished-at="2019-03-19T10:39:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- passwordAndConfirmPasswordMismatchTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.SignUpPageTest@7d70d1b1]" name="teardown" is-config="true" duration-ms="68" started-at="2019-03-19T10:39:03Z" finished-at="2019-03-19T10:39:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=passwordAndConfirmPasswordMismatchTest status=SUCCESS method=SignUpPageTest.passwordAndConfirmPasswordMismatchTest()[pri:7, instance:com.qa.testCases.SignUpPageTest@7d70d1b1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.SignUpPageTest@7d70d1b1]" name="setUp" is-config="true" duration-ms="46529" started-at="2019-03-19T10:39:03Z" finished-at="2019-03-19T10:39:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="checkBoxValidationTest()[pri:8, instance:com.qa.testCases.SignUpPageTest@7d70d1b1]" name="checkBoxValidationTest" duration-ms="6622" started-at="2019-03-19T10:39:50Z" finished-at="2019-03-19T10:39:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBoxValidationTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.SignUpPageTest@7d70d1b1]" name="teardown" is-config="true" duration-ms="73" started-at="2019-03-19T10:39:56Z" finished-at="2019-03-19T10:39:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkBoxValidationTest status=SUCCESS method=SignUpPageTest.checkBoxValidationTest()[pri:8, instance:com.qa.testCases.SignUpPageTest@7d70d1b1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.SignUpPageTest@7d70d1b1]" name="setUp" is-config="true" duration-ms="61198" started-at="2019-03-19T10:39:56Z" finished-at="2019-03-19T10:40:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="signUpWithTabTest()[pri:8, instance:com.qa.testCases.SignUpPageTest@7d70d1b1]" name="signUpWithTabTest" duration-ms="28011" started-at="2019-03-19T10:40:58Z" finished-at="2019-03-19T10:41:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUpWithTabTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.SignUpPageTest@7d70d1b1]" name="teardown" is-config="true" duration-ms="72" started-at="2019-03-19T10:41:26Z" finished-at="2019-03-19T10:41:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=signUpWithTabTest status=SUCCESS method=SignUpPageTest.signUpWithTabTest()[pri:8, instance:com.qa.testCases.SignUpPageTest@7d70d1b1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.SignUpPageTest@7d70d1b1]" name="setUp" is-config="true" duration-ms="48322" started-at="2019-03-19T10:41:26Z" finished-at="2019-03-19T10:42:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="SignUpPlaceholderTest()[pri:9, instance:com.qa.testCases.SignUpPageTest@7d70d1b1]" name="SignUpPlaceholderTest" duration-ms="5096" started-at="2019-03-19T10:42:14Z" finished-at="2019-03-19T10:42:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignUpPlaceholderTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.SignUpPageTest@7d70d1b1]" name="teardown" is-config="true" duration-ms="76" started-at="2019-03-19T10:42:19Z" finished-at="2019-03-19T10:42:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SignUpPlaceholderTest status=SUCCESS method=SignUpPageTest.SignUpPlaceholderTest()[pri:9, instance:com.qa.testCases.SignUpPageTest@7d70d1b1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.SignUpPageTest@7d70d1b1]" name="setUp" is-config="true" duration-ms="51050" started-at="2019-03-19T10:42:19Z" finished-at="2019-03-19T10:43:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="maximumPasswordLenghtValidationTest()[pri:10, instance:com.qa.testCases.SignUpPageTest@7d70d1b1]" name="maximumPasswordLenghtValidationTest" duration-ms="2110" started-at="2019-03-19T10:43:10Z" finished-at="2019-03-19T10:43:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maximumPasswordLenghtValidationTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.SignUpPageTest@7d70d1b1]" name="teardown" is-config="true" duration-ms="73" started-at="2019-03-19T10:43:12Z" finished-at="2019-03-19T10:43:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=maximumPasswordLenghtValidationTest status=SUCCESS method=SignUpPageTest.maximumPasswordLenghtValidationTest()[pri:10, instance:com.qa.testCases.SignUpPageTest@7d70d1b1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.SignUpPageTest@7d70d1b1]" name="setUp" is-config="true" duration-ms="46505" started-at="2019-03-19T10:43:12Z" finished-at="2019-03-19T10:43:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="invalidEmailTest()[pri:11, instance:com.qa.testCases.SignUpPageTest@7d70d1b1]" name="invalidEmailTest" duration-ms="9497" started-at="2019-03-19T10:43:59Z" finished-at="2019-03-19T10:44:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidEmailTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.SignUpPageTest@7d70d1b1]" name="teardown" is-config="true" duration-ms="68" started-at="2019-03-19T10:44:08Z" finished-at="2019-03-19T10:44:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=invalidEmailTest status=SUCCESS method=SignUpPageTest.invalidEmailTest()[pri:11, instance:com.qa.testCases.SignUpPageTest@7d70d1b1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.SignUpPageTest@7d70d1b1]" name="setUp" is-config="true" duration-ms="47116" started-at="2019-03-19T10:44:09Z" finished-at="2019-03-19T10:44:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="checkBoxSelectionTest()[pri:12, instance:com.qa.testCases.SignUpPageTest@7d70d1b1]" name="checkBoxSelectionTest" duration-ms="5055" started-at="2019-03-19T10:44:56Z" finished-at="2019-03-19T10:45:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBoxSelectionTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.SignUpPageTest@7d70d1b1]" name="teardown" is-config="true" duration-ms="72" started-at="2019-03-19T10:45:01Z" finished-at="2019-03-19T10:45:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkBoxSelectionTest status=SUCCESS method=SignUpPageTest.checkBoxSelectionTest()[pri:12, instance:com.qa.testCases.SignUpPageTest@7d70d1b1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.testCases.SignUpPageTest -->
+    </test> <!-- Test12 -->
+  </suite> <!-- Suite -->
+</testng-results>

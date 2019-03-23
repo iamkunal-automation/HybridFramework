@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.qa.utility.ScreenShotListener"/>
+  </listeners>
+  <test thread-count="5" name="Test1(failed)">
+    <classes>
+      <class name="com.qa.testCases.AddToFavouritePageTest">
+        <methods>
+          <include name="deleteFavouriteAdTest"/>
+          <include name="setUp"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- com.qa.testCases.AddToFavouritePageTest -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+  <test thread-count="5" name="Test2(failed)">
+    <classes>
+      <class name="com.qa.testCases.CategoriesPageTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="teardown"/>
+          <include name="verifyCategoryPageTitleTest"/>
+        </methods>
+      </class> <!-- com.qa.testCases.CategoriesPageTest -->
+    </classes>
+  </test> <!-- Test2(failed) -->
+  <test thread-count="5" name="Test8(failed)">
+    <classes>
+      <class name="com.qa.testCases.PostAddTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="categoryCountTest"/>
+          <include name="verfyPostAdPageTest"/>
+        </methods>
+      </class> <!-- com.qa.testCases.PostAddTest -->
+    </classes>
+  </test> <!-- Test8(failed) -->
+  <test thread-count="5" name="Test9(failed)">
+    <classes>
+      <class name="com.qa.testCases.ReceivedEnquiryPageTest">
+        <methods>
+          <include name="fileLinkClickabilityTest"/>
+          <include name="setUp"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- com.qa.testCases.ReceivedEnquiryPageTest -->
+    </classes>
+  </test> <!-- Test9(failed) -->
+  <test thread-count="5" name="Test11(failed)">
+    <classes>
+      <class name="com.qa.testCases.SentEnquiryTest">
+        <methods>
+          <include name="teardown"/>
+          <include name="verifyEnquiredProductTest"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.qa.testCases.SentEnquiryTest -->
+    </classes>
+  </test> <!-- Test11(failed) -->
+  <test thread-count="5" name="Test12(failed)">
+    <classes>
+      <class name="com.qa.testCases.SignUpPageTest">
+        <methods>
+          <include name="SignUpFormTest"/>
+          <include name="teardown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.qa.testCases.SignUpPageTest -->
+    </classes>
+  </test> <!-- Test12(failed) -->
+</suite> <!-- Failed suite [Suite] -->
